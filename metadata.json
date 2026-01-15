@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio Chat with Docs",
+  "description": "See the URL Context tool in action. Chat with Gemini to explore API documentation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
